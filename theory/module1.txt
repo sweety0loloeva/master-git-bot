@@ -1,0 +1,42 @@
+🐾 Модуль 1: Noun (Имя существительное) 🐈
+Существительное — это основа основ! Оно отвечает на вопросы Who? (Кто?) и What? (Что?). Давай разберем всё по полочкам! ✨
+📦 🔍 🥣 🗝️ 🧩 📦 🔍 🥣 🗝️ 🧩
+1️⃣ Singular & Plural (Числа) 📦
+В большинстве случаев добавляем -s. Но есть нюансы:
+База: cat → cats, dog → dogs.
+Оканчиваются на -s, -ss, -sh, -ch, -x, -o: добавляем -es.
+bus → buses, box → boxes, potato → potatoes.
+Оканчиваются на -y (после согласной): меняем -y на -ies.
+baby → babies, fly → flies.
+🐱 Непослушные исключения:
+man → men | woman → women
+child → children | person → people
+tooth → teeth | foot → feet
+mouse → mice
+💡 Лайфхак: Видишь many, these, those или цифры (кроме 1) — смело ставь множественное число! 🔍
+📦 🔍 🥣 🗝️ 🧩 📦 🔍 🥣 🗝️ 🧩
+2️⃣ Countable & Uncountable 🥣
+Countable (Исчисляемые): можно посчитать (1, 2, 3...).
+Пример: apple → apples, pen → pens.
+Uncountable (Неисчисляемые): нельзя посчитать (чувства, жидкости, сыпучее). Только ед. число!
+Примеры: water, milk, love, money, information, furniture.
+⚠️ Важно: с неисчисляемыми НЕ используем артикль a/an и НЕ ставим -s. Говорим: much water (вместо many waters).
+📦 🔍 🥣 🗝️ 🧩 📦 🔍 🥣 🗝️ 🧩
+3️⃣ Possessive Case (Притяжательный падеж) 🗝️
+Показывает принадлежность предмета:
+Ед. число: добавляем 's → The cat's bowl (миска кота).
+Мн. число (с -s): добавляем только ' → The cats' toys (игрушки котов).
+Мн. число (исключения): добавляем 's → The children's room (комната детей).
+📦 🔍 🥣 🗝️ 🧩 📦 🔍 🥣 🗝️ 🧩
+4️⃣ Роль в предложении 🧩
+Subject (Подлежащее): выполняет действие.
+The cat sleeps. (Кто спит? — Кот).
+Object (Дополнение): на него направлено действие.
+I love my cat. (Кого я люблю? — Кота).
+📦 🔍 🥣 🗝️ 🧩 📦 🔍 🥣 🗝️ 🧩
+📝 Мини-тест
+Вставь правильную форму:
+They have two (child) __________.
+Is there any (water) __________ in the glass?
+This is the (teacher) __________ pen.
+(Ответы: 1. children, 2. water, 3. teacher's)

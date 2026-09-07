@@ -1,0 +1,1111 @@
+[
+  {
+    "topic": "English Grammar",
+    "question": "1. She ... an account with Halyk Bank since 2010.\n\nA) has\nB) has had\nC) is having\nD) had",
+    "options": { "A": "has", "B": "has had", "C": "is having", "D": "had" },
+    "correct": "B",
+    "explanation": "💡 Предлог 'since' указывает на действие, начавшееся в прошлом и продолжающееся до сих пор, что требует Present Perfect (has had)."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "2. In the Middle Ages, surrounding a castle with a ditch filled with water proved ... a successful technique ... its security.\n\nA) having been / of ensuring\nB) being / to be ensured\nC) to be / for ensuring\nD) have been / to ensure",
+    "options": { "A": "having been / of ensuring", "B": "being / to be ensured", "C": "to be / for ensuring", "D": "have been / to ensure" },
+    "correct": "C",
+    "explanation": "💡 Глагол 'prove' в значении 'оказаться' требует после себя инфинитив (to be), а для выражения цели используется предлог 'for' с герундием (for ensuring)."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "3. We ... TV, while they were having dinner.\n\nA) watches\nB) were watching\nC) will watch\nD) watch",
+    "options": { "A": "watches", "B": "were watching", "C": "will watch", "D": "watch" },
+    "correct": "B",
+    "explanation": "💡 Союз 'while' указывает на параллельные длительные действия в прошлом, поэтому используется Past Continuous (were watching)."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "4. Dan ... TV when his parents arrived.\n\nA) had watched\nB) were watching\nC) has watched\nD) was watching",
+    "options": { "A": "had watched", "B": "were watching", "C": "has watched", "D": "was watching" },
+    "correct": "D",
+    "explanation": "💡 Одно длительное действие в прошлом было прервано другим коротким. Для длительного действия используется Past Continuous (was watching)."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "5. My ... friend is in Kyiv.\n\nA) father's\nB) father\nC) fathers's\nD) fathers'",
+    "options": { "A": "father's", "B": "father", "C": "fathers's", "D": "fathers'" },
+    "correct": "A",
+    "explanation": "💡 Для выражения притяжательного падежа существительного в единственном числе (друг моего отца) добавляется окончание 's (father's)."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "6. Choose Past Perfect Continuous Tense: Professor N. retired last year. He ... at our University for 30 years.\n\nA) have been working\nB) was working\nC) had been working\nD) has been working",
+    "options": { "A": "have been working", "B": "was working", "C": "had been working", "D": "has been working" },
+    "correct": "C",
+    "explanation": "💡 Действие происходило в течение определенного периода времени в прошлом до наступления другого события. Используется Past Perfect Continuous (had been working)."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "7. ... sky is blue and ... sun is shining.\n\nA) --\nB) the; the\nC) a; a\nD) the; -",
+    "options": { "A": "--", "B": "the; the", "C": "a; a", "D": "the; -" },
+    "correct": "B",
+    "explanation": "💡 С уникальными космическими объектами (sky, sun) всегда употребляется определенный артикль 'the'."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "8. Sometimes I wish I ... what the future holds.\n\nA) knew\nB) knows\nC) know\nD) known",
+    "options": { "A": "knew", "B": "knows", "C": "know", "D": "known" },
+    "correct": "A",
+    "explanation": "💡 Конструкция 'I wish' для выражения сожаления о настоящем времени требует использования Past Simple (knew)."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "9. While I ... in the garage, I ... my back.\n\nA) was working, hurt\nB) working, hurt\nC) worked, hurt\nD) am working, hurted",
+    "options": { "A": "was working, hurt", "B": "working, hurt", "C": "worked, hurt", "D": "am working, hurted" },
+    "correct": "A",
+    "explanation": "💡 После 'while' обычно идет Past Continuous (was working), а короткое действие выражается в Past Simple (hurt)."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "10. Complete the sentence: Please, stay here. I don't want you ... anywhere.\n\nA) to go\nB) going\nC) go\nD) went",
+    "options": { "A": "to go", "B": "going", "C": "go", "D": "went" },
+    "correct": "A",
+    "explanation": "💡 Конструкция Complex Object после глагола 'want' требует использования инфинитива с частицей 'to' (want somebody to do something)."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "11. He ... understand the language when he first came there.\n\nA) will\nB) must\nC) couldn't to\nD) couldn't",
+    "options": { "A": "will", "B": "must", "C": "couldn't to", "D": "couldn't" },
+    "correct": "D",
+    "explanation": "💡 Модальный глагол 'could' выражает неспособность в прошлом. После него частица 'to' не ставится."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "12. That was a ... holiday.\n\nA) disappointful\nB) disappointing\nC) disappointed\nD) disappoint",
+    "options": { "A": "disappointful", "B": "disappointing", "C": "disappointed", "D": "disappoint" },
+    "correct": "B",
+    "explanation": "💡 Причастие на -ing (disappointing) описывает признак предмета или события."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "13. The film is really exciting. I've seen ... three times.\n\nA) he\nB) him\nC) her\nD) it",
+    "options": { "A": "he", "B": "him", "C": "her", "D": "it" },
+    "correct": "D",
+    "explanation": "💡 Для замены неодушевленных существительных (the film) в объектном падеже используется 'it'."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "14. Scientists believe that human beings speak ... now than 250 years ago.\n\nA) more quietly\nB) more quietlier\nC) quietly\nD) most quietly",
+    "options": { "A": "more quietly", "B": "more quietlier", "C": "quietly", "D": "most quietly" },
+    "correct": "A",
+    "explanation": "💡 Наличие слова 'than' указывает на сравнительную степень. Наречие 'quietly' образует её при помощи 'more'."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "15. I want to be ... teacher.\n\nA) --\nB) the\nC) an\nD) a",
+    "options": { "A": "--", "B": "the", "C": "an", "D": "a" },
+    "correct": "D",
+    "explanation": "💡 При упоминании профессии в единственном числе используется неопределенный артикль 'a'."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "16. I might not be at home ... Tuesday morning, but I'll be there ... the afternoon.\n\nA) at, on\nB) on, in\nC) in, at\nD) -, at",
+    "options": { "A": "at, on", "B": "on, in", "C": "in, at", "D": "-, at" },
+    "correct": "B",
+    "explanation": "💡 С днями недели используется 'on', а с частями суток — 'in'."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "17. I'm ... my driving test tomorrow.\n\nA) taking\nB) take\nC) will take\nD) will taking",
+    "options": { "A": "taking", "B": "take", "C": "will take", "D": "will taking" },
+    "correct": "A",
+    "explanation": "💡 Конструкция Am/Is/Are + V-ing выражает запланированное действие на ближайшее будущее."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "18. If you don't want to burn yourself, you ... lie in the sun all day.\n\nA) won't\nB) shouldn't\nC) don't\nD) couldn't",
+    "options": { "A": "won't", "B": "shouldn't", "C": "don't", "D": "couldn't" },
+    "correct": "B",
+    "explanation": "💡 Модальный глагол 'shouldn't' используется для выражения совета не делать чего-либо."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "19. 2025\n\nA) two thousand zero twenty-five\nB) two thousand twenty and five\nC) two zero two five\nD) two thousand and twenty-five",
+    "options": { "A": "two thousand zero twenty-five", "B": "two thousand twenty and five", "C": "two zero two five", "D": "two thousand and twenty-five" },
+    "correct": "D",
+    "explanation": "💡 Числительные для обозначения четырехзначных чисел читаются как 'two thousand and twenty-five'."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "20. Well, I think you ought to speak to that man ... standing with a notebook in front of the car.\n\nA) which\nB) whose\nC) whom\nD) who's",
+    "options": { "A": "which", "B": "whose", "C": "whom", "D": "who's" },
+    "correct": "D",
+    "explanation": "💡 'who's' — это сокращение от 'who is' (человек, который стоит...)."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "21. What is the correct variant of the Possessive case?\n\nA) mother's-in-law's advice\nB) mother-in-law advice's\nC) mother-in-law's advice\nD) mother-in-laws advice",
+    "options": { "A": "mother's-in-law's advice", "B": "mother-in-law advice's", "C": "mother-in-law's advice", "D": "mother-in-laws advice" },
+    "correct": "C",
+    "explanation": "💡 У составных существительных окончание притяжательного падежа -'s добавляется к последнему слову (mother-in-law's)."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "22. This letter isn't for ... It's for ...\n\nA) you, I\nB) yours, mine\nC) you, me\nD) your, my",
+    "options": { "A": "you, I", "B": "yours, mine", "C": "you, me", "D": "your, my" },
+    "correct": "C",
+    "explanation": "💡 После предлогов используются личные местоимения в объектном падеже (you, me)."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "23. They arrived ... three o'clock ... the afternoon.\n\nA) at / in\nB) in / for\nC) when / ago\nD) last / -",
+    "options": { "A": "at / in", "B": "in / for", "C": "when / ago", "D": "last / -" },
+    "correct": "A",
+    "explanation": "💡 Точное время требует 'at', а время суток — 'in'."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "24. Choose the right variant: There are ... waiting for you\n\nA) runners-ups\nB) runners-up\nC) runner-up\nD) нет варианта",
+    "options": { "A": "runners-ups", "B": "runners-up", "C": "runner-up", "D": "нет варианта" },
+    "correct": "B",
+    "explanation": "💡 Множественное число сложных существительных образуется добавлением -s к основному слову (runners-up)."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "25. It's a pity my watch is fast again. I've recently had it ......\n\nA) being repaired\nB) to be repair\nC) is repairing\nD) repaired",
+    "options": { "A": "being repaired", "B": "to be repair", "C": "is repairing", "D": "repaired" },
+    "correct": "D",
+    "explanation": "💡 Конструкция 'have something done' означает, что действие выполняется для вас кем-то другим."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "26. It's ... cheap restaurant and the food ... good.\n\nA) reasonableness, extremeness\nB) reasonably, extremely\nC) reasonable, extreme\nD) more reasonable, more extreme",
+    "options": { "A": "reasonableness, extremeness", "B": "reasonably, extremely", "C": "reasonable, extreme", "D": "more reasonable, more extreme" },
+    "correct": "B",
+    "explanation": "💡 Перед прилагательными должны стоять наречия (reasonably, extremely)."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "27. Do you prefer watching a DVD at home ... to the cinema?\n\nA) to go\nB) to going\nC) going\nD) go",
+    "options": { "A": "to go", "B": "to going", "C": "going", "D": "go" },
+    "correct": "B",
+    "explanation": "💡 Устойчивое выражение 'prefer doing something TO doing something else' требует герундия."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "28. Don't phone Assel from 5 to 6, she ... an English class.\n\nA) was having\nB) has\nC) will have\nD) will be having",
+    "options": { "A": "was having", "B": "has", "C": "will have", "D": "will be having" },
+    "correct": "D",
+    "explanation": "💡 Действие будет в процессе в определенный момент в будущем (с 5 до 6), используется Future Continuous."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "29. There is ... cheese on the table.\n\nA) the\nB) some\nC) a\nD) any",
+    "options": { "A": "the", "B": "some", "C": "a", "D": "any" },
+    "correct": "B",
+    "explanation": "💡 С неисчисляемыми существительными (cheese) в утвердительных предложениях используется 'some'."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "30. The room looked nice. Somebody ... it.\n\nA) had cleaning\nB) is cleaned\nC) has cleaned\nD) was cleaned",
+    "options": { "A": "had cleaning", "B": "is cleaned", "C": "has cleaned", "D": "was cleaned" },
+    "correct": "C",
+    "explanation": "💡 Настоящий результат (комната выглядит хорошо) связан с действием в прошлом (Present Perfect)."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "31. By the time the ship reached the island, more than twenty sailors ...\n\nA) have been died\nB) has died\nC) dead\nD) had died",
+    "options": { "A": "have been died", "B": "has died", "C": "dead", "D": "had died" },
+    "correct": "D",
+    "explanation": "💡 Предлог 'by the time' указывает на предпрошедшее действие (Past Perfect)."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "32. After she ... the house, she ... TV.\n\nA) cleaned / watched\nB) had cleaned / had watched\nC) had cleaned / watched\nD) cleaned / had watched",
+    "options": { "A": "cleaned / watched", "B": "had cleaned / had watched", "C": "had cleaned / watched", "D": "cleaned / had watched" },
+    "correct": "C",
+    "explanation": "💡 'After' вводит действие, совершившееся ранее. Ранее совершенное — Past Perfect, последующее — Past Simple."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "33. These flowers aren't very nice. The blue ones are ...\n\nA) nicer\nB) nicerer\nC) much nice\nD) more nice",
+    "options": { "A": "nicer", "B": "nicerer", "C": "much nice", "D": "more nice" },
+    "correct": "A",
+    "explanation": "💡 Сравнительная степень коротких прилагательных образуется через -er (nicer)."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "34. The book of a friend = ...\n\nA) a friend's books\nB) a friend book\nC) a friends' book\nD) a friend's book",
+    "options": { "A": "a friend's books", "B": "a friend book", "C": "a friends' book", "D": "a friend's book" },
+    "correct": "D",
+    "explanation": "💡 Притяжательный падеж с -'s для единственного числа (a friend's book)."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "35. They're really angry because someone ... their car.\n\nA) has been damaged\nB) damage\nC) was damaged\nD) has damaged",
+    "options": { "A": "has been damaged", "B": "damage", "C": "was damaged", "D": "has damaged" },
+    "correct": "D",
+    "explanation": "💡 Имеется очевидный результат действия в настоящем (Present Perfect)."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "36. I don't believe him. He's a liar. He's always telling ...\n\nA) lie\nB) lies\nC) lyes\nD) liers",
+    "options": { "A": "lie", "B": "lies", "C": "lyes", "D": "liers" },
+    "correct": "B",
+    "explanation": "💡 Устойчивое выражение 'tell lies' означает 'лгать'."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "37. There isn't much ... left.\n\nA) bananas\nB) cookies\nC) apples\nD) sugar",
+    "options": { "A": "bananas", "B": "cookies", "C": "apples", "D": "sugar" },
+    "correct": "D",
+    "explanation": "💡 'Much' употребляется только с неисчисляемыми существительными (sugar)."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "38. Choose the sentence with Possessive Case:\n\nA) It's just for you.\nB) He's spoken all the day.\nC) My granny's hair is gray.\nD) My husband's having dinner now.",
+    "options": { "A": "It's just for you.", "B": "He's spoken all the day.", "C": "My granny's hair is gray.", "D": "My husband's having dinner now." },
+    "correct": "C",
+    "explanation": "💡 В предложении C апостроф означает притяжательный падеж (волосы моей бабушки)."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "39. ... Tower in Paris was built between 1887 and 1889.\n\nA) Eiffel\nB) The Eiffel\nC) An Eiffel\nD) A Eiffel",
+    "options": { "A": "Eiffel", "B": "The Eiffel", "C": "An Eiffel", "D": "A Eiffel" },
+    "correct": "B",
+    "explanation": "💡 Названия уникальных сооружений употребляются с определенным артиклем 'the' (The Eiffel Tower)."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "40. Insert 'the' into the appropriate sentence:\n\nA) Paula is looking for... job\nB) Now women have more opportunities to find ... work\nC) We check them twice ... year\nD) That roof was built for ... first time twenty-five hundred years ago",
+    "options": { "A": "Paula is looking for... job", "B": "Now women have more opportunities to find ... work", "C": "We check them twice ... year", "D": "That roof was built for ... first time twenty-five hundred years ago" },
+    "correct": "D",
+    "explanation": "💡 Перед порядковыми числительными всегда ставится артикль 'the' (the first time)."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "41. The Alps are ... than the Urals.\n\nA) more higher\nB) more high\nC) higher\nD) the highest",
+    "options": { "A": "more higher", "B": "more high", "C": "higher", "D": "the highest" },
+    "correct": "C",
+    "explanation": "💡 Сравнительная степень коротких прилагательных образуется суффиксом -er (higher)."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "42. John seemed to have the ... working day yesterday.\n\nA) less responsible\nB) most difficult\nC) more easier\nD) most longest",
+    "options": { "A": "less responsible", "B": "most difficult", "C": "more easier", "D": "most longest" },
+    "correct": "B",
+    "explanation": "💡 Превосходная степень многосложного прилагательного 'difficult' образуется с помощью 'most'."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "43. His behavior has been very ... in recent weeks.\n\nA) puzzling\nB) puzzles\nC) puzzled\nD) puzzle",
+    "options": { "A": "puzzling", "B": "puzzles", "C": "puzzled", "D": "puzzle" },
+    "correct": "A",
+    "explanation": "💡 Качество поведения описывается причастием с -ing (puzzling — озадачивающее)."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "44. ... are the men who were on TV yesterday.\n\nA) She\nB) These\nC) He\nD) They",
+    "options": { "A": "She", "B": "These", "C": "He", "D": "They" },
+    "correct": "B",
+    "explanation": "💡 Указательное местоимение 'These' согласуется с 'are' при указании на людей."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "45. Look at me. Do you think that ... shoes go well with my trousers?\n\nA) these\nB) those\nC) that\nD) this",
+    "options": { "A": "these", "B": "those", "C": "that", "D": "this" },
+    "correct": "A",
+    "explanation": "💡 'Shoes' — множественное число, подходит 'these'."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "46. The man ... was here is an artist.\n\nA) which\nB) whose\nC) what\nD) who",
+    "options": { "A": "which", "B": "whose", "C": "what", "D": "who" },
+    "correct": "D",
+    "explanation": "💡 'who' используется для людей."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "47. I don't know ... of them actually get it.\n\nA) whose\nB) what\nC) which\nD) whom",
+    "options": { "A": "whose", "B": "what", "C": "which", "D": "whom" },
+    "correct": "C",
+    "explanation": "💡 'which' используется при выборе из ограниченного круга."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "48. 11874\n\nA) eleven thousand eight hundred and seventy-four\nB) eleven thousand eight hundred seventy-four\nC) eleven thousands eight hundreds and seventy-four\nD) eleven thousands eight hundred and seventy-four",
+    "options": { "A": "eleven thousand eight hundred and seventy-four", "B": "eleven thousand eight hundred seventy-four", "C": "eleven thousands eight hundreds and seventy-four", "D": "eleven thousands eight hundred and seventy-four" },
+    "correct": "A",
+    "explanation": "💡 Числа 'thousand' и 'hundred' не принимают -s перед точным числом."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "49. 15th May, 1996\n\nA) the fiftyth of May, nineteen and nineteen six\nB) the fifteenth of May, ninety nineteen six\nC) the fifth of May, nineteen and nine six\nD) the fifteenth of May, nineteen ninety-six",
+    "options": { "A": "the fiftyth of May, nineteen and nineteen six", "B": "the fifteenth of May, ninety nineteen six", "C": "the fifth of May, nineteen and nine six", "D": "the fifteenth of May, nineteen ninety-six" },
+    "correct": "D",
+    "explanation": "💡 Даты читаются с использованием порядкового числительного с артиклем 'the' и делением года на две части."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "50. 4.25 per cent of the graduates is hiring to different positions.\n\nA) four point twenth five\nB) four twos fives\nC) fouth two fives\nD) four point two five",
+    "options": { "A": "four point twenth five", "B": "four twos fives", "C": "fouth two fives", "D": "four point two five" },
+    "correct": "D",
+    "explanation": "💡 Десятичные дроби читаются по отдельным цифрам после точки."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "51. Light ... more quickly than sound.\n\nA) traveling\nB) is traveled\nC) travel\nD) travels",
+    "options": { "A": "traveling", "B": "is traveled", "C": "travel", "D": "travels" },
+    "correct": "D",
+    "explanation": "💡 Объективная истина (Present Simple), подлежащее ед. числа (travels)."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "52. I ... when someone ... at the door.\n\nA) slept/was knocked\nB) sleeping/knocking\nC) slept/knocked\nD) was sleeping / knocked",
+    "options": { "A": "slept/was knocked", "B": "sleeping/knocking", "C": "slept/knocked", "D": "was sleeping / knocked" },
+    "correct": "D",
+    "explanation": "💡 Процесс сна прерывается коротким стуком (Past Continuous + Past Simple)."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "53. The Chinese ... printing.\n\nA) had invented\nB) have invented\nC) invented\nD) was invented",
+    "options": { "A": "had invented", "B": "have invented", "C": "invented", "D": "was invented" },
+    "correct": "C",
+    "explanation": "💡 Исторический факт в прошлом (Past Simple)."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "54. Look at those black clouds. It ... rain.\n\nA) will be\nB) won't be\nC) will have\nD) is going to",
+    "options": { "A": "will be", "B": "won't be", "C": "will have", "D": "is going to" },
+    "correct": "D",
+    "explanation": "💡 Предсказание, основанное на видимых признаках ('is going to')."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "55. Bananas ... by Tom just now.\n\nA) was eaten\nB) eaten\nC) are eaten\nD) are being eaten",
+    "options": { "A": "was eaten", "B": "eaten", "C": "are eaten", "D": "are being eaten" },
+    "correct": "D",
+    "explanation": "💡 'just now' указывает на процесс, Present Continuous Passive (are being eaten)."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "56. Jack ... be at home. Look, his car is front of the house.\n\nA) have to\nB) ought\nC) can't\nD) must",
+    "options": { "A": "have to", "B": "ought", "C": "can't", "D": "must" },
+    "correct": "D",
+    "explanation": "💡 'must' выражает логическую уверенность."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "57. To my mind the government ... take care of old people.\n\nA) ought\nB) need\nC) had to\nD) must",
+    "options": { "A": "ought", "B": "need", "C": "had to", "D": "must" },
+    "correct": "D",
+    "explanation": "💡 Обязанность без частицы 'to' выражается через 'must'."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "58. ... the latest information about our products is now possible directly from our web page.\n\nA) Obtaining\nB) To obtaining\nC) To be obtained\nD) For to obtain",
+    "options": { "A": "Obtaining", "B": "To obtaining", "C": "To be obtained", "D": "For to obtain" },
+    "correct": "A",
+    "explanation": "💡 Герундий в роли подлежащего (Obtaining...)."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "59. She denies ... with him.\n\nA) have speaking\nB) having spoken\nC) having speaking\nD) having been spoken",
+    "options": { "A": "have speaking", "B": "having spoken", "C": "having speaking", "D": "having been spoken" },
+    "correct": "B",
+    "explanation": "💡 'deny' требует герундия, Perfect Gerund указывает на предшествование."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "60. ... in Moscow for many years he knew that city very well.\n\nA) lived\nB) as lived\nC) having lived\nD) having been lived",
+    "options": { "A": "lived", "B": "as lived", "C": "having lived", "D": "having been lived" },
+    "correct": "C",
+    "explanation": "💡 Деепричастный оборот предшествования (Perfect Participle Active)."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "61. We didn't go out because it was raining ...\n\nA) heavier than\nB) more heavy\nC) heavily\nD) heavy",
+    "options": { "A": "heavier than", "B": "more heavy", "C": "heavily", "D": "heavy" },
+    "correct": "C",
+    "explanation": "💡 Глагол требует наречия (heavily)."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "62. Поставь слова в правильном порядке: I/ offered/ been/ have/job/Mexico/just/a/ in!\n\nA) I just have offered a job in Mexico been\nB) In Mexico I just have a job been offered\nC) A job been offered I just have in Mexico\nD) I have just been offered a job in Mexico",
+    "options": { "A": "Вариант A", "B": "Вариант B", "C": "Вариант C", "D": "I have just been offered a job in Mexico" },
+    "correct": "D",
+    "explanation": "💡 Стандартный порядок слов в Present Perfect Passive: S + have/has + just + been + V3."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "63. I can't understand the instructions. They're ... Chinese.\n\nA) by\nB) on\nC) in\nD) for",
+    "options": { "A": "by", "B": "on", "C": "in", "D": "for" },
+    "correct": "C",
+    "explanation": "💡 Язык, на котором написан текст, используется с предлогом 'in'."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "64. It was a lovely day. There wasn't a cloud ... the sky.\n\nA) to\nB) at\nC) in\nD) on",
+    "options": { "A": "to", "B": "at", "C": "in", "D": "on" },
+    "correct": "C",
+    "explanation": "💡 Устойчивое сочетание 'in the sky'."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "65. The sky ... clear tonight.\n\nA) is\nB) was\nC) are\nD) a",
+    "options": { "A": "is", "B": "was", "C": "are", "D": "a" },
+    "correct": "A",
+    "explanation": "💡 Подлежащее 'The sky' единственного числа требует глагола 'is'."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "66. If he had time he ... help us.\n\nA) will\nB) have\nC) has\nD) would",
+    "options": { "A": "will", "B": "have", "C": "has", "D": "would" },
+    "correct": "D",
+    "explanation": "💡 Second Conditional: If + Past Simple, то would + инфинитив."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "67. 'Children need a place where they can feel safe'. In this sentence the word ... can be used instead of its synonym 'safe'.\n\nA) directed\nB) secure\nC) warranted\nD) stable",
+    "options": { "A": "directed", "B": "secure", "C": "warranted", "D": "stable" },
+    "correct": "B",
+    "explanation": "💡 Синоним 'safe' — 'secure'."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "68. Were there many ... at the party?\n\nA) persones\nB) peoples\nC) person\nD) people",
+    "options": { "A": "persones", "B": "peoples", "C": "person", "D": "people" },
+    "correct": "D",
+    "explanation": "💡 Множественное число от 'person' — 'people'."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "69. Did you hear ... just now?\n\nA) noise\nB) a noise\nC) noises\nD) the noise",
+    "options": { "A": "noise", "B": "a noise", "C": "noises", "D": "the noise" },
+    "correct": "B",
+    "explanation": "💡 Конкретный единичный звук требует 'a noise'."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "70. My ... friend is in Kyiv now.\n\nA) father\nB) fathers'\nC) father's\nD) fathers's",
+    "options": { "A": "father", "B": "fathers'", "C": "father's", "D": "fathers's" },
+    "correct": "C",
+    "explanation": "💡 Притяжательный падеж единственного числа — 'father's'."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "71. ... Statue of Liberty is one of ... most recognizable icons of the US worldwide.\n\nA) the, the\nB) the, an\nC) -, the\nD) a, the",
+    "options": { "A": "the, the", "B": "the, an", "C": "-, the", "D": "a, the" },
+    "correct": "A",
+    "explanation": "💡 С памятниками и превосходной степенью используется 'the'."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "72. ... Moon has no ... light. It is bright because ... Sun shines on it.\n\nA) The / - / the\nB) - / - / the\nC) The / the / the\nD) The / a / the",
+    "options": { "A": "The / - / the", "B": "- / - / the", "C": "The / the / the", "D": "The / a / the" },
+    "correct": "A",
+    "explanation": "💡 Уникальные космические тела (The Moon, The Sun), перед 'light' артикль не нужен."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "73. A tsunami is ... dangerous than just a big wave.\n\nA) much more\nB) of\nC) but less\nD) much the",
+    "options": { "A": "much more", "B": "of", "C": "but less", "D": "much the" },
+    "correct": "A",
+    "explanation": "💡 Сравнительная степень прилагательного 'dangerous' образуется через 'more'."
+  },
+  {
+        "topic": "English Grammar",
+        "question": "74. If he ... us a lift, we wouldn't have had to take a taxi.\n\nA) has given\nB) given\nC) gave\nD) had given\nE) will give",
+        "options": {
+            "A": "has given",
+            "B": "given",
+            "C": "gave",
+            "D": "had given",
+            "E": "will give"
+        },
+        "correct": "D",
+        "explanation": "💡 Conditional III: в условии Past Perfect (had given)."
+    },
+    {
+        "topic": "English Grammar",
+        "question": "75. Last week Justin said 'I'll do it tomorrow'. He said he would do it....\n\nA) the next day\nB) the previous day\nC) tomorrow\nD) yesterday\nE) the day before yesterday",
+        "options": {
+            "A": "the next day",
+            "B": "the previous day",
+            "C": "tomorrow",
+            "D": "yesterday",
+            "E": "the day before yesterday"
+        },
+        "correct": "A",
+        "explanation": "💡 В косвенной речи 'tomorrow' меняется на 'the next day'."
+    },
+    {
+        "topic": "English Grammar",
+        "question": "76. We ... to the theatre tonight.\n\nA) went\nB) are going\nC) have gone\nD) is going\nE) will going",
+        "options": {
+            "A": "went",
+            "B": "are going",
+            "C": "have gone",
+            "D": "is going",
+            "E": "will going"
+        },
+        "correct": "B",
+        "explanation": "💡 Запланированное действие в ближайшем будущем — Present Continuous."
+    },
+    {
+        "topic": "English Grammar",
+        "question": "77. Children should ... warned not to speak to strangers.\n\nA) be\nB) are\nC) [пусто]\nD) were",
+        "options": {
+            "A": "be",
+            "B": "are",
+            "C": "[пусто]",
+            "D": "were"
+        },
+        "correct": "A",
+        "explanation": "💡 Пассивный залог после модальных глаголов: should + be + V3."
+    },
+    {
+        "topic": "English Grammar",
+        "question": "78. She ... in a small village in the south of Spain.\n\nA) has born\nB) was born\nC) born\nD) has been born",
+        "options": {
+            "A": "has born",
+            "B": "was born",
+            "C": "born",
+            "D": "has been born"
+        },
+        "correct": "B",
+        "explanation": "💡 'Was born' — устойчивое выражение для указания места/времени рождения."
+    },
+    {
+        "topic": "Reading Comprehension",
+        "question": "79. A person who is afraid of closed rooms has ... .\n\nA) macrophobia\nB) microphobia\nC) claustrophobia\nD) zoophobia",
+        "options": {
+            "A": "macrophobia",
+            "B": "microphobia",
+            "C": "claustrophobia",
+            "D": "zoophobia"
+        },
+        "correct": "C",
+        "explanation": "💡 Claustrophobia — страх закрытых пространств."
+    },
+    {
+        "topic": "Reading Comprehension",
+        "question": "80. People who are afraid of germs have ... .\n\nA) zoophobia\nB) microphobia\nC) acrophobia\nD) claustrophobia",
+        "options": {
+            "A": "zoophobia",
+            "B": "microphobia",
+            "C": "acrophobia",
+            "D": "claustrophobia"
+        },
+        "correct": "B",
+        "explanation": "💡 Microphobia (или germophobia) — страх микробов/микроорганизмов."
+    },
+    {
+        "topic": "English Grammar",
+        "question": "81. She usually goes to work by bus, but today she ... to work by car.\n\nA) goes\nB) is going\nC) went\nD) has gone",
+        "options": {
+            "A": "goes",
+            "B": "is going",
+            "C": "went",
+            "D": "has gone"
+        },
+        "correct": "B",
+        "explanation": "💡 Present Continuous для временного действия 'today'."
+    },
+    {
+        "topic": "English Grammar",
+        "question": "82. I ... my homework when the phone rang.\n\nA) was doing\nB) did\nC) have done\nD) do",
+        "options": {
+            "A": "was doing",
+            "B": "did",
+            "C": "have done",
+            "D": "do"
+        },
+        "correct": "A",
+        "explanation": "💡 Past Continuous (was doing) для прерванного действия."
+    },
+    {
+        "topic": "English Grammar",
+        "question": "83. You ... better see a doctor if you feel unwell.\n\nA) would\nB) had\nC) have\nD) did",
+        "options": {
+            "A": "would",
+            "B": "had",
+            "C": "have",
+            "D": "did"
+        },
+        "correct": "B",
+        "explanation": "💡 Конструкция 'had better' используется для совета."
+    },
+  [
+  {
+    "topic": "English Grammar",
+    "question": "84. The news ... very shocking yesterday.\n\nA) were\nB) was\nC) have been\nD) are",
+    "options": { "A": "were", "B": "was", "C": "have been", "D": "are" },
+    "correct": "B",
+    "explanation": "💡 Слово 'news' в английском всегда употребляется в единственном числе."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "85. If you ... me, I would have come.\n\nA) asked\nB) had asked\nC) would ask\nD) ask",
+    "options": { "A": "asked", "B": "had asked", "C": "would ask", "D": "ask" },
+    "correct": "B",
+    "explanation": "💡 Conditional III: в условии Past Perfect, в главной части 'would have + V3'."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "86. She suggested ... to the park.\n\nA) to go\nB) going\nC) go\nD) went",
+    "options": { "A": "to go", "B": "going", "C": "go", "D": "went" },
+    "correct": "B",
+    "explanation": "💡 После глагола 'suggest' используется герундий (-ing)."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "87. I am looking forward to ... you.\n\nA) see\nB) seeing\nC) seen\nD) saw",
+    "options": { "A": "see", "B": "seeing", "C": "seen", "D": "saw" },
+    "correct": "B",
+    "explanation": "💡 'Look forward to' требует после себя герундия (здесь 'to' — часть фразового глагола, а не инфинитива)."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "88. He admitted ... the money.\n\nA) steal\nB) to steal\nC) stealing\nD) stole",
+    "options": { "A": "steal", "B": "to steal", "C": "stealing", "D": "stole" },
+    "correct": "C",
+    "explanation": "💡 После глагола 'admit' используется герундий."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "89. It is high time we ... home.\n\nA) go\nB) went\nC) gone\nD) are going",
+    "options": { "A": "go", "B": "went", "C": "gone", "D": "are going" },
+    "correct": "B",
+    "explanation": "💡 Конструкция 'it is high time' требует Past Simple."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "90. I wish I ... taller.\n\nA) am\nB) was/were\nC) will be\nD) have been",
+    "options": { "A": "am", "B": "was/were", "C": "will be", "D": "have been" },
+    "correct": "B",
+    "explanation": "💡 В конструкциях с 'wish' для выражения сожаления о настоящем используем Past Simple (were для всех лиц)."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "91. This car is ... expensive than that one.\n\nA) more\nB) most\nC) much\nD) very",
+    "options": { "A": "more", "B": "most", "C": "much", "D": "very" },
+    "correct": "A",
+    "explanation": "💡 Сравнительная степень длинных прилагательных образуется с 'more'."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "92. She is ... girl in the class.\n\nA) smart\nB) smarter\nC) the smartest\nD) smartest",
+    "options": { "A": "smart", "B": "smarter", "C": "the smartest", "D": "smartest" },
+    "correct": "C",
+    "explanation": "💡 Превосходная степень требует артикля 'the'."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "93. They ... for three hours when I arrived.\n\nA) have been playing\nB) had been playing\nC) were playing\nD) played",
+    "options": { "A": "have been playing", "B": "had been playing", "C": "were playing", "D": "played" },
+    "correct": "B",
+    "explanation": "💡 Past Perfect Continuous подчеркивает длительность действия, которое закончилось до определенного момента в прошлом."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "94. If I were you, I ... him.\n\nA) will call\nB) would call\nC) called\nD) have called",
+    "options": { "A": "will call", "B": "would call", "C": "called", "D": "have called" },
+    "correct": "B",
+    "explanation": "💡 Conditional II: 'if I were...' требует 'would + глагол'."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "95. You ... finish your project by Friday.\n\nA) must\nB) have\nC) are\nD) does",
+    "options": { "A": "must", "B": "have", "C": "are", "D": "does" },
+    "correct": "A",
+    "explanation": "💡 Модальный глагол 'must' выражает обязанность."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "96. He is ... of all my friends.\n\nA) tall\nB) taller\nC) the tallest\nD) tallest",
+    "options": { "A": "tall", "B": "taller", "C": "the tallest", "D": "tallest" },
+    "correct": "C",
+    "explanation": "💡 Превосходная степень при сравнении группы людей."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "97. She didn't ... to school yesterday.\n\nA) went\nB) go\nC) gone\nD) goes",
+    "options": { "A": "went", "B": "go", "C": "gone", "D": "goes" },
+    "correct": "B",
+    "explanation": "💡 В отрицании с 'did' глагол всегда в начальной форме."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "98. I have ... idea.\n\nA) a\nB) an\nC) the\nD) --",
+    "options": { "A": "a", "B": "an", "C": "the", "D": "--" },
+    "correct": "B",
+    "explanation": "💡 Артикль 'an' перед словами на гласный звук."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "99. ... sun is bright today.\n\nA) A\nB) An\nC) The\nD) --",
+    "options": { "A": "A", "B": "An", "C": "The", "D": "--" },
+    "correct": "C",
+    "explanation": "💡 Уникальные объекты (sun, moon) используются с 'the'."
+  },
+    {
+      "topic": "English Grammar",
+      "question": "100. We live ... Almaty.\n\nA) in\nB) on\nC) at\nD) to",
+      "options": {
+        "A": "in",
+        "B": "on",
+        "C": "at",
+        "D": "to"
+      },
+      "correct": "A",
+      "explanation": "💡 С городами используем предлог 'in'."
+    },
+  {
+    "topic": "English Grammar",
+    "question": "101. She is fond ... reading classical literature.\n\nA) at\nB) on\nC) of\nD) in",
+    "options": { "A": "at", "B": "on", "C": "of", "D": "in" },
+    "correct": "C",
+    "explanation": "💡 Устойчивое сочетание 'to be fond of' (увлекаться чем-либо)."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "102. Neither the manager nor the employees ... present at the meeting.\n\nA) was\nB) were\nC) is\nD) has been",
+    "options": { "A": "was", "B": "were", "C": "is", "D": "has been" },
+    "correct": "B",
+    "explanation": "💡 С 'neither...nor' глагол согласуется с последним существительным ('employees' -> were)."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "103. Would you mind ... the door, please?\n\nA) open\nB) to open\nC) opening\nD) opened",
+    "options": { "A": "open", "B": "to open", "C": "opening", "D": "opened" },
+    "correct": "C",
+    "explanation": "💡 После конструкции 'would you mind' всегда используется герундий (-ing)."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "104. By the time he arrived, the train ... .\n\nA) leaves\nB) left\nC) had left\nD) has left",
+    "options": { "A": "leaves", "B": "left", "C": "had left", "D": "has left" },
+    "correct": "C",
+    "explanation": "💡 Действие, завершившееся до другого действия в прошлом, выражается через Past Perfect."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "105. She is interested ... learning new programming languages.\n\nA) in\nB) on\nC) at\nD) of",
+    "options": { "A": "in", "B": "on", "C": "at", "D": "of" },
+    "correct": "A",
+    "explanation": "💡 Устойчивое выражение 'to be interested in' (интересоваться чем-то)."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "106. If she had known about the problem, she ... it.\n\nA) would fix\nB) would have fixed\nC) will fix\nD) fixed",
+    "options": { "A": "would fix", "B": "would have fixed", "C": "will fix", "D": "fixed" },
+    "correct": "B",
+    "explanation": "💡 Conditional III: сожаление о прошлом. Если 'if + Past Perfect', то главная часть 'would have + V3'."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "107. ... you ever been to Astana?\n\nA) Do\nB) Did\nC) Have\nD) Are",
+    "options": { "A": "Do", "B": "Did", "C": "Have", "D": "Are" },
+    "correct": "C",
+    "explanation": "💡 Вопросы о жизненном опыте строятся с использованием Present Perfect."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "108. This is the ... movie I have ever seen.\n\nA) good\nB) better\nC) best\nD) well",
+    "options": { "A": "good", "B": "better", "C": "best", "D": "well" },
+    "correct": "C",
+    "explanation": "💡 Превосходная степень прилагательного 'good' — 'best'."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "109. He ... his homework yet.\n\nA) doesn't finish\nB) didn't finish\nC) hasn't finished\nD) isn't finishing",
+    "options": { "A": "doesn't finish", "B": "didn't finish", "C": "hasn't finished", "D": "isn't finishing" },
+    "correct": "C",
+    "explanation": "💡 В отрицательных предложениях с 'yet' используется Present Perfect."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "110. She plays the piano ... .\n\nA) good\nB) well\nC) best\nD) better",
+    "options": { "A": "good", "B": "well", "C": "best", "D": "better" },
+    "correct": "B",
+    "explanation": "💡 Для описания того, *как* совершается действие, используем наречие 'well'."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "111. The house was ... by a famous architect.\n\nA) build\nB) built\nC) building\nD) builds",
+    "options": { "A": "build", "B": "built", "C": "building", "D": "builds" },
+    "correct": "B",
+    "explanation": "💡 Пассивный залог: 'was/were + V3' (третья форма глагола build — built)."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "112. I am afraid ... dogs.\n\nA) of\nB) for\nC) at\nD) with",
+    "options": { "A": "of", "B": "for", "C": "at", "D": "with" },
+    "correct": "A",
+    "explanation": "💡 'To be afraid of' — устойчивое выражение."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "113. Could you ... me a favor?\n\nA) make\nB) do\nC) give\nD) help",
+    "options": { "A": "make", "B": "do", "C": "give", "D": "help" },
+    "correct": "B",
+    "explanation": "💡 Устойчивое выражение 'to do a favor' (оказать услугу)."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "114. She is ... tired to continue working.\n\nA) enough\nB) too\nC) very\nD) so",
+    "options": { "A": "enough", "B": "too", "C": "very", "D": "so" },
+    "correct": "B",
+    "explanation": "💡 Конструкция 'too + прилагательное + to' означает 'слишком ..., чтобы'."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "115. They have lived here ... 2015.\n\nA) for\nB) since\nC) from\nD) during",
+    "options": { "A": "for", "B": "since", "C": "from", "D": "during" },
+    "correct": "B",
+    "explanation": "💡 Для обозначения начала временного периода используется 'since'."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "116. If he ... free time, he will travel.\n\nA) has\nB) had\nC) will have\nD) would have",
+    "options": { "A": "has", "B": "had", "C": "will have", "D": "would have" },
+    "correct": "A",
+    "explanation": "💡 Conditional I: в условии используется Present Simple."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "117. She decided ... to the university.\n\nA) go\nB) to go\nC) going\nD) went",
+    "options": { "A": "go", "B": "to go", "C": "going", "D": "went" },
+    "correct": "B",
+    "explanation": "💡 После глагола 'decide' всегда идет инфинитив с 'to'."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "118. My father ... to work every day.\n\nA) drive\nB) drives\nC) is driving\nD) drove",
+    "options": { "A": "drive", "B": "drives", "C": "is driving", "D": "drove" },
+    "correct": "B",
+    "explanation": "💡 Регулярное действие в настоящем: Present Simple, 'father' (he) -> drives."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "119. He is the man ... I met yesterday.\n\nA) which\nB) who\nC) whose\nD) where",
+    "options": { "A": "which", "B": "who", "C": "whose", "D": "where" },
+    "correct": "B",
+    "explanation": "💡 Для людей в придаточных предложениях используем 'who'."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "120. ... English is spoken all over the world.\n\nA) A\nB) An\nC) The\nD) [пусто]",
+    "options": { "A": "A", "B": "An", "C": "The", "D": "[пусто]" },
+    "correct": "D",
+    "explanation": "💡 Перед названиями языков артикли не ставятся."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "121. She is ... person in the office.\n\nA) the most intelligent\nB) more intelligent\nC) intelligentest\nD) as intelligent",
+    "options": { "A": "the most intelligent", "B": "more intelligent", "C": "intelligentest", "D": "as intelligent" },
+    "correct": "A",
+    "explanation": "💡 Для превосходной степени прилагательных используется 'the' + 'most' + прилагательное."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "122. If I ... time, I will help you.\n\nA) had\nB) have\nC) will have\nD) would have",
+    "options": { "A": "had", "B": "have", "C": "will have", "D": "would have" },
+    "correct": "B",
+    "explanation": "💡 Conditional I: в условии (if-clause) используется Present Simple."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "123. They ... to the cinema yesterday.\n\nA) go\nB) went\nC) have gone\nD) are going",
+    "options": { "A": "go", "B": "went", "C": "have gone", "D": "are going" },
+    "correct": "B",
+    "explanation": "💡 Past Simple используется для завершенного действия в прошлом (yesterday)."
+  },
+  {
+    "topic": "Reading Comprehension",
+    "question": "124. What is the antonym of 'brave'?\n\nA) courageous\nB) cowardly\nC) bold\nD) fearless",
+    "options": { "A": "courageous", "B": "cowardly", "C": "bold", "D": "fearless" },
+    "correct": "B",
+    "explanation": "💡 'Cowardly' — трусливый, является антонимом к 'brave' (храбрый)."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "125. Choose the correct passive sentence: 'He wrote the letter'.\n\nA) The letter is written by him\nB) The letter was written by him\nC) The letter written by him\nD) The letter has been written by him",
+    "options": { "A": "The letter is written by him", "B": "The letter was written by him", "C": "The letter written by him", "D": "The letter has been written by him" },
+    "correct": "B",
+    "explanation": "💡 Пассивный залог в Past Simple: was/were + V3."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "126. I have been living here ... 2020.\n\nA) for\nB) since\nC) from\nD) during",
+    "options": { "A": "for", "B": "since", "C": "from", "D": "during" },
+    "correct": "B",
+    "explanation": "💡 'Since' указывает на конкретную точку отсчета во времени."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "127. She is fond ... reading books.\n\nA) at\nB) on\nC) of\nD) in",
+    "options": { "A": "at", "B": "on", "C": "of", "D": "in" },
+    "correct": "C",
+    "explanation": "💡 Устойчивое сочетание 'to be fond of' (любить/увлекаться)."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "128. Neither the teacher nor the students ... present.\n\nA) was\nB) were\nC) is\nD) has been",
+    "options": { "A": "was", "B": "were", "C": "is", "D": "has been" },
+    "correct": "B",
+    "explanation": "💡 При использовании конструкции 'neither...nor' глагол согласуется с последним подлежащим ('students' -> were)."
+  },
+  {
+    "topic": "Reading Comprehension",
+    "question": "129. The synonym of 'enormous' is:\n\nA) tiny\nB) small\nC) huge\nD) thin",
+    "options": { "A": "tiny", "B": "small", "C": "huge", "D": "thin" },
+    "correct": "C",
+    "explanation": "💡 'Enormous' и 'huge' означают 'огромный'."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "130. Would you mind ... the window?\n\nA) open\nB) to open\nC) opening\nD) opened",
+    "options": { "A": "open", "B": "to open", "C": "opening", "D": "opened" },
+    "correct": "C",
+    "explanation": "💡 После выражения 'would you mind' глагол всегда употребляется с окончанием -ing."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "131. My brother is ... than me.\n\nA) tall\nB) taller\nC) tallest\nD) the taller",
+    "options": { "A": "tall", "B": "taller", "C": "tallest", "D": "the taller" },
+    "correct": "B",
+    "explanation": "💡 Сравнительная степень короткого прилагательного образуется добавлением -er."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "132. We ... to the party last night.\n\nA) don't go\nB) didn't go\nC) haven't gone\nD) weren't go",
+    "options": { "A": "don't go", "B": "didn't go", "C": "haven't gone", "D": "weren't go" },
+    "correct": "B",
+    "explanation": "💡 В отрицании Past Simple используется 'didn't' + начальная форма глагола."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "133. Look! The bus ... .\n\nA) comes\nB) is coming\nC) come\nD) has come",
+    "options": { "A": "comes", "B": "is coming", "C": "come", "D": "has come" },
+    "correct": "B",
+    "explanation": "💡 Present Continuous используется для действий, происходящих прямо сейчас (сигнал 'Look!')."
+  },
+  {
+    "topic": "Reading Comprehension",
+    "question": "134. Which word is an adjective?\n\nA) Quick\nB) Quickly\nC) Run\nD) Time",
+    "options": { "A": "Quick", "B": "Quickly", "C": "Run", "D": "Time" },
+    "correct": "A",
+    "explanation": "💡 'Quick' — прилагательное, 'quickly' — наречие."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "135. They ... married for 10 years.\n\nA) are\nB) have been\nC) were\nD) have",
+    "options": { "A": "are", "B": "have been", "C": "were", "D": "have" },
+    "correct": "B",
+    "explanation": "💡 Для описания периода времени с прошлого до настоящего используется Present Perfect."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "136. I have ... idea.\n\nA) a\nB) an\nC) the\nD) [пусто]",
+    "options": { "A": "a", "B": "an", "C": "the", "D": "[пусто]" },
+    "correct": "B",
+    "explanation": "💡 Перед словом, начинающимся с гласного звука (idea), ставится артикль 'an'."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "137. He is interested ... history.\n\nA) in\nB) on\nC) at\nD) of",
+    "options": { "A": "in", "B": "on", "C": "at", "D": "of" },
+    "correct": "A",
+    "explanation": "💡 'To be interested in' — устойчивое сочетание."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "138. If she had studied, she ... the exam.\n\nA) would pass\nB) would have passed\nC) will pass\nD) passed",
+    "options": { "A": "would pass", "B": "would have passed", "C": "will pass", "D": "passed" },
+    "correct": "B",
+    "explanation": "💡 Conditional III: в главной части используется 'would have' + V3."
+  },
+  {
+    "topic": "Reading Comprehension",
+    "question": "139. Antonym of 'sharp':\n\nA) blunt\nB) pointed\nC) keen\nD) smart",
+    "options": { "A": "blunt", "B": "pointed", "C": "keen", "D": "smart" },
+    "correct": "A",
+    "explanation": "💡 'Blunt' (тупой) — антоним 'sharp' (острый)."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "140. She said that she ... the report.\n\nA) finishes\nB) will finish\nC) finished\nD) had finished",
+    "options": { "A": "finishes", "B": "will finish", "C": "finished", "D": "had finished" },
+    "correct": "D",
+    "explanation": "💡 Согласование времен: если в главном предложении глагол в прошедшем, то в придаточном используется Past Perfect."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "141. ... you ever been to Paris?\n\nA) Do\nB) Did\nC) Have\nD) Are",
+    "options": { "A": "Do", "B": "Did", "C": "Have", "D": "Are" },
+    "correct": "C",
+    "explanation": "💡 Вопрос о жизненном опыте в Present Perfect строится с 'Have'."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "142. It is ... book I've ever read.\n\nA) best\nB) the best\nC) better\nD) a better",
+    "options": { "A": "best", "B": "the best", "C": "better", "D": "a better" },
+    "correct": "B",
+    "explanation": "💡 Превосходная степень прилагательного требует артикля 'the'."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "143. She ... her keys.\n\nA) lose\nB) lost\nC) has lose\nD) is lose",
+    "options": { "A": "lose", "B": "lost", "C": "has lose", "D": "is lose" },
+    "correct": "B",
+    "explanation": "💡 Past Simple для констатации факта в прошлом."
+  },
+  {
+    "topic": "Reading Comprehension",
+    "question": "144. 'To give up' means:\n\nA) to continue\nB) to stop\nC) to start\nD) to try",
+    "options": { "A": "to continue", "B": "to stop", "C": "to start", "D": "to try" },
+    "correct": "B",
+    "explanation": "💡 Фразовый глагол 'give up' означает бросать, прекращать."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "145. He plays guitar ... .\n\nA) good\nB) well\nC) best\nD) better",
+    "options": { "A": "good", "B": "well", "C": "best", "D": "better" },
+    "correct": "B",
+    "explanation": "💡 Наречие 'well' используется для описания того, как выполняется действие."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "146. This house was ... in 1990.\n\nA) build\nB) built\nC) building\nD) builds",
+    "options": { "A": "build", "B": "built", "C": "building", "D": "builds" },
+    "correct": "B",
+    "explanation": "💡 Пассивный залог: 'was' + V3."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "147. She ... work at 8 am.\n\nA) start\nB) starts\nC) starting\nD) to start",
+    "options": { "A": "start", "B": "starts", "C": "starting", "D": "to start" },
+    "correct": "B",
+    "explanation": "💡 Present Simple, третье лицо единственного числа (she) требует окончания -s."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "148. I am ... of spiders.\n\nA) afraid\nB) fear\nC) fright\nD) scary",
+    "options": { "A": "afraid", "B": "fear", "C": "fright", "D": "scary" },
+    "correct": "A",
+    "explanation": "💡 'To be afraid of' — устойчивое выражение."
+  },
+  {
+    "topic": "Reading Comprehension",
+    "question": "149. Synonym of 'happy':\n\nA) sad\nB) glad\nC) angry\nD) bored",
+    "options": { "A": "sad", "B": "glad", "C": "angry", "D": "bored" },
+    "correct": "B",
+    "explanation": "💡 'Glad' означает радостный, счастливый."
+  },
+  {
+    "topic": "English Grammar",
+    "question": "150. ... you help me, please?\n\nA) May\nB) Might\nC) Could\nD) Shall",
+    "options": { "A": "May", "B": "Might", "C": "Could", "D": "Shall" },
+    "correct": "C",
+    "explanation": "💡 'Could' — вежливая форма просьбы."
+  }
+  ]  ]

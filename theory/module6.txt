@@ -1,0 +1,42 @@
+🐾 Модуль 6: Verb (Глагол) 🐈‍⬛
+Глагол — это сердце предложения. Давай разберем времена через простую логику!
+⏰ 🐈‍⬛ ⏰ 🐈‍⬛ ⏰ 🐈‍⬛ ⏰ 🐈‍⬛ ⏰ 🐈‍⬛
+1️⃣ Система времен (4x3) ⏰
+Simple (Факты):
+Present: Регулярность (I drink milk).
+Past: Факт в прошлом (I drank milk).
+Future: Будущее (I will drink milk).
+Continuous (Процесс):
+Present: Прямо сейчас (I am drinking).
+Past: Процесс в прошлом (I was drinking).
+Future: Процесс в будущем (I will be drinking).
+Perfect (Результат):
+Present: Результат к моменту «сейчас» (I have drunk).
+Past: Действие до другого момента в прошлом (I had drunk).
+Future: Действие к моменту в будущем (I will have drunk).
+Perfect Continuous (Длительный результат):
+Началось в прошлом и длится до сих пор (I have been drinking milk for 10 minutes).
+⏰ 🐈‍⬛ ⏰ 🐈‍⬛ ⏰ 🐈‍⬛ ⏰ 🐈‍⬛ ⏰ 🐈‍⬛
+2️⃣ Present Perfect vs. Past Simple 🏆
+Past Simple: Время «умерло» (есть четкое указание: yesterday, in 2025, an hour ago).
+Present Perfect: Важен результат сейчас, время не указано (just, already, yet, ever, never, recently).
+💡 Подсказка: Если в вопросе «When?» — пиши Past Simple. Если «How long?» — Present Perfect.
+⏰ 🐈‍⬛ ⏰ 🐈‍⬛ ⏰ 🐈‍⬛ ⏰ 🐈‍⬛ ⏰ 🐈‍⬛
+3️⃣ Active and Passive Voice (Актив и Пассив) 🎤
+Active: Котик ловит мышку. (The cat catches the mouse.)
+Passive: Мышка ловится котиком. (The mouse is caught by the cat.)
+💡 Формула Пассива: всегда to be + V3 (третья форма глагола).
+Present Simple Passive: The floor is cleaned every day.
+Past Simple Passive: The floor was cleaned yesterday.
+⏰ 🐈‍⬛ ⏰ 🐈‍⬛ ⏰ 🐈‍⬛ ⏰ 🐈‍⬛ ⏰ 🐈‍⬛
+💡 Шпаргалка-напоминалка
+Simple = Регулярность или факт.
+Continuous = Процесс (всегда to be + V-ing).
+Perfect = Результат (всегда have/has/had + V3).
+Passive = Объект на первом месте (всегда to be + V3).
+⏰ 🐈‍⬛ ⏰ 🐈‍⬛ ⏰ 🐈‍⬛ ⏰ 🐈‍⬛ ⏰ 🐈‍⬛
+📝 Мини-тест
+I (finish) __________ my homework yesterday.
+I (finish) __________ my homework, so I can go for a walk now.
+The letter (send) __________ tomorrow (Passive).
+(Ответы: 1. finished, 2. have finished, 3. will be sent)
